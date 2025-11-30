@@ -1,0 +1,12 @@
+{
+  "name": "nametag-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "@railway/database": "^0.1.0"
+  }
+}
